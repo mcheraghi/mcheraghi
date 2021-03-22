@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohsen Cheraghi
-- 👀 I’m interested in Data Science, Mathematical modeling
+- 👀 I’m interested in Data Science, Financial modeling, Mathematical modeling of physical processes
 
 - 📫 How to reach me ...
 
